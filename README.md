@@ -4,6 +4,7 @@ This project presents a comprehensive Monitoring & Evaluation (M&E) dashboard fo
 
 The objective is to identify system inefficiencies, resource gaps, and outcome drivers to support data-driven healthcare decision-making.
 
+
 Key Objectives
 
 Evaluate cancer care performance across districts
