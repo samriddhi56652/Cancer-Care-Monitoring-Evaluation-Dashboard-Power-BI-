@@ -1,11 +1,11 @@
-Project Overview
+# Project Overview
 
 This project presents a comprehensive Monitoring & Evaluation (M&E) dashboard for analyzing cancer care delivery across districts. The dashboard evaluates healthcare performance using an Input → Process → Output framework, integrating People, Process, and Technology dimensions.
 
 The objective is to identify system inefficiencies, resource gaps, and outcome drivers to support data-driven healthcare decision-making.
 
 
-Key Objectives
+# Key Objectives
 
 Evaluate cancer care performance across districts
 
@@ -17,7 +17,7 @@ Assess impact of resources (oncologists, infrastructure) on outcomes
 
 Provide actionable insights for improving survival rates
 
-Dashboard Structure
+# Dashboard Structure
 1. Executive Summary
 
 Screening Coverage %
@@ -60,7 +60,7 @@ Patient satisfaction comparison
 
 Relationship between early detection and survival
 
-Key Insights
+# Key Insights
 
 High treatment completion (83%) indicates strong adherence once treatment begins
 
@@ -84,7 +84,7 @@ Uneven resource utilization across districts
 
 Financial barriers (low insurance vs high treatment cost)
 
-Recommendations
+# Recommendations
 
 Strengthen early screening programs
 
@@ -96,7 +96,7 @@ Expand digital health systems and tracking
 
 Optimize resource allocation based on performance gaps
 
-Data Limitations
+# Data Limitations
 
 The dataset lacks key variables that could enhance analysis:
 
@@ -110,7 +110,7 @@ Staff workload and efficiency metrics
 
 Data quality and reporting accuracy indicators
 
-Tools & Skills Used
+# Tools & Skills Used
 
 Power BI (Dashboard Development)
 
@@ -122,7 +122,7 @@ Data Visualization & Storytelling
 
 Healthcare Analytics (M&E Framework)
 
-Key Metrics Created
+# Key Metrics Created
 
 Screening Coverage %
 
@@ -140,7 +140,7 @@ Oncologist Density
 
 Infrastructure Index
 
-Project Files
+# Project Files
 
 Power BI Dashboard (.pbix)
 
@@ -148,6 +148,6 @@ Dataset (Excel)
 
 Dashboard Screenshots
 
-Conclusion
+# Conclusion
 
 This project demonstrates how data-driven monitoring and evaluation can uncover critical inefficiencies in healthcare systems. By focusing on early detection and process optimization, significant improvements in patient outcomes can be achieved.
